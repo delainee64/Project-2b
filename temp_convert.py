@@ -1,8 +1,7 @@
 # Author: Delainee Lenss
 # GitHub username: delainee64
 # Date: 10/02/2022
-# Description: Asks the user for a temperature in Celsius and then prints
-# the corresponding Fahrenheit temperature.
+# Description: Write a program that converts Celsius temperatures to Fahrenheit temperatures.
 
 print("Please enter a Celsius temperature.")
 c_temp = float(input())
