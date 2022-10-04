@@ -1,5 +1,5 @@
 # Author: Delainee Lenss
-# GitHub username: delainee64
+# Github username: delainee64
 # Date: 10/02/2022
 # Description: Write a program that converts Celsius temperatures to Fahrenheit temperatures.
 
